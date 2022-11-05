@@ -1,3 +1,3 @@
-module github.com/archaeophoenix/go-mod.git
+module github.com/archaeophoenix/go-mod
 
 go 1.19
